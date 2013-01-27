@@ -1,4 +1,4 @@
-MathIsPy library for Pygame
+MathIsPy library for Python
 William T Jones 2009-2011 https://bitbucket.org/wtjones
 
 A math library currently consisting of vector and quaternion operations created while learning Python.
